@@ -1,8 +1,11 @@
-# VS Code
+
+# VS Code settings
 .vscode/
 
-# LaTeX temporary files
+# LaTeX build directories
 out/
+
+# LaTeX temporary files
 *.aux
 *.log
 *.fls
