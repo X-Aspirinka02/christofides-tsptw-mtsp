@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# LaTeX temporary files
+out/
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.bbl
+*.blg
+*.toc
+*.out
+*.nav
+*.snm
